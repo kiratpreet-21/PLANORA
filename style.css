@@ -23,7 +23,7 @@
   /* Pink Glow */
 
   --purple: var(--accent-p);
-  --cyan: var(--accent-c);
+   --cyan: var(--accent-c);
   --pink: var(--accent-pk);
 
   --text: #f1f0ff;
